@@ -1,4 +1,5 @@
 🔐 USB HID Warning Message Demo
+
 This project is a harmless USB HID (Human Interface Device) demo created using an Arduino-compatible microcontroller such as the Arduino Pro Micro or Digispark. When plugged into a Windows machine, the device emulates a keyboard and automatically executes a sequence of keystrokes that:
 
 Opens the Windows Run dialog (Win + R)
